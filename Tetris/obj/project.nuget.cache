@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7jDJF9X+YL2Lfvy5LO6Crz+Fzd9W7sclQRISWZq5FqnKuM/7FqQg24O3Cq7jOQRiw3PQeyDDVKkAhsafaGPYA==",
+  "success": true,
+  "projectFilePath": "D:\\Kacper_Sz\\Studia\\4SEMESTR\\Paradygmaty programowania\\Labolatorium\\Tetris\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
